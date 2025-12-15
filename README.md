@@ -2,6 +2,7 @@ Hi, I’m Justin Segrest, a current graduate student at IU Indianapolis studying
 
 Projects:
 **Big Data Bowl 2026: Winning 3rd Down**
+
 Link - https://github.com/jus10segrest/Winning-3rd-Down-BDB26
 
 Technical Skills:
@@ -10,8 +11,11 @@ Technical Skills:
 - Miscellanous: Qualtrics, ChatGPT, Claude AI
 
 My email and linkedin are listed below. I also have a Twitter/X that I post data analytics on as well.
+
 Email - jus10segrest@gmail.com
+
 Linkedin - https://www.linkedin.com/in/justinsegrest/
+
 Twitter/X - https://x.com/justin_segrest
 
 
