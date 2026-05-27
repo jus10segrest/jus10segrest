@@ -8,7 +8,7 @@ Projects:
 
 **Predicting NBA Success based on Collegiate Stats**
 
-Link - 
+Link - https://github.com/jus10segrest/Predicting-NBA-Success
 
 **Big Data Bowl 2026: Winning 3rd Down**
 
