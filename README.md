@@ -5,6 +5,7 @@ I got my Master's in Applied Data Science (specializing in Sports Analytics) at 
 In my own time I have done various anaytical projects such as prediciting NBA Success from current draft prospects, showing the difference between the AP and Coaches Top 25 Poll vs a Metrics Based poll, and many other sport related projects.
 
 Projects:
+
 **Predicting NBA Success based on Collegiate Stats**
 
 Link - 
