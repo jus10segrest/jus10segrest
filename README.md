@@ -1,4 +1,4 @@
-Hi, I’m Justin Segrest, I currently work as a Data & AI Engineer at Ekkobar a technology startup based in Indianapolis.
+Hi, I’m Justin Segrest, I currently work as a Data & AI Engineer at Ekkobar which is a technology startup based in Indianapolis.
 
 I got my Master's in Applied Data Science (specializing in Sports Analytics) at Indiana University - Indianapolis. I have worked on projects such as the NFL Big Data Bowl, worked with the IU Indy Women's Basketball Team, and completed various other analytical tasks.
 
